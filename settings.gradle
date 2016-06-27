@@ -1,1 +1,1 @@
-include ':idn-android-app', ':idn-android-api', ':idn-java-api'
+include ':idn-android-app:app', ':idn-android-api', ':idn-java-api'
