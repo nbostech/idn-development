@@ -1,3 +1,3 @@
-git clone https://github.com/nbostech/wavelabs-android-app.git idn-android-app
-git clone https://github.com/nbostech/wavelabs-java-client-api.git idn-java-api
-git clone https://github.com/nbostech/wavelabs-android-client-api.git idn-android-api
+git clone https://github.com/nbostech/nbos-android-starter-app.git idn-android-app
+git clone https://github.com/nbostech/idn-sdk-java.git idn-java-api
+git clone https://github.com/nbostech/idn-sdk-android.git idn-android-api
