@@ -1,1 +1,1 @@
-include ':idn-java-api', ':nbos-identity-java-module', ':nbos-media-java-module', ':idn-android-api', ':idn-android-app:app'
+include ':ids-sdk-java', ':module-identity', ':module-media', ':ids-sdk-android', ':idn-android-app:app'
